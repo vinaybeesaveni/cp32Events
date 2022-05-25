@@ -1,0 +1,24 @@
+.event-img {
+  width: 250px;
+  height: 160px;
+  border-radius: 10px;
+}
+.name {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+.location {
+  color: white;
+  margin-top: 8px;
+}
+.list-item {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.image-btn {
+  background-color: transparent;
+  border-width: 0;
+}
